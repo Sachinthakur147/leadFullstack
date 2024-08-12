@@ -1,0 +1,19 @@
+#bell{
+     color: aqua;
+}
+.head{
+     font-size:xx-large;
+     font-weight: bold;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.img{
+     background-color: aliceblue;
+     width: 70%;
+     height: 5vh;
+}
+#nav{
+     background-color: aqua;
+     display: flex;
+     justify-content: space-between;
+}
